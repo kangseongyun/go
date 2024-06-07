@@ -1,9 +1,0 @@
-streamlit
-os
-pandas
-streamlit_option_menu
-plotly.graph_objects
-numpy
-scipy.optimize
-prophet
-base64
